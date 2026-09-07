@@ -80,7 +80,7 @@ The following table details the physical pin connections sequentially. Ensure al
     *   ESP32-S3 WROOM Technical Reference
     *   MAX31865 RTD-to-Digital Converter
     *   LM35 Precision Centigrade Temperature Sensors
-    *   Ceramic Fiber Thermal Insulation Specifications
+    *   Ceramic Fiber Thermal Insulation Specifications.
 
 ## Power and Safety Notes
 
